@@ -1,0 +1,6 @@
+{
+  "name": "Cadillacs & Dinosaurs: Apex Arcade",
+  "description": "An HD retro arcade beat 'em up inspired by Cadillacs and Dinosaurs featuring multiple fighters, prehistoric beasts, weapon combat, and vehicular rampage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
